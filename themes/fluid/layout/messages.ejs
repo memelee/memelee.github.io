@@ -1,0 +1,17 @@
+<%
+page.layout = "messages"
+page.title = theme.message.title || __('message.title')
+page.subtitle = theme.message.subtitle || __('message.subtitle')
+page.banner_img = theme.message.banner_img
+page.banner_img_height = theme.message.banner_img_height
+%>
+
+<div class="markdown-body">
+  <%- page.content %>
+</div>
+<hr>
+<!-- Comments -->
+<div class="comments" id="comments">
+  <% var type = '_partial/comments/' + theme.post.comments.type %>
+  <%- partial(type) %>
+</div>

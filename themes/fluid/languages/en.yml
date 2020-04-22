@@ -5,7 +5,7 @@ search:
     success: v
     error: x
 
-postTotal: "%d posts in total."
+postTotal: '%d posts in total.'
 
 paginator:
   pre: Previous
@@ -28,6 +28,10 @@ tag:
 category:
   title: Categories
   subtitle: Category
+
+message:
+  title: Messages
+  subtitle: Message
 
 about:
   title: About

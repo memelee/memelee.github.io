@@ -29,8 +29,12 @@ category:
   title: カテゴリー
   subtitle: カテゴリー
 
+message:
+  title: 伝言
+  subtitle: 伝言
+
 about:
-  title: 本ブログ情報　
+  title: 本ブログ情報
   subtitle: 本ブログ情報
 
 page404:
