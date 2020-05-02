@@ -347,8 +347,8 @@ about: # 以下仅为页面顶部的基本信息，更多内容请在 ./pages/ab
   banner_img_height: 60 # available: 0 - 100
   subtitle: # 打字机内容
   avatar: /img/avatar.jpeg # 头像
-  name: 李狗蛋
-  introduce: 随时桌游 / 不定期旅游 / 各种奇怪知识 # 支持 HTML
+  name: 弱鸡窝
+  introduce: 桌游 / 旅游 / 各种奇怪知识 # 支持 HTML
   icons: # 更多图标可从 https://fontawesome.com/v5.10.0/icons?d=gallery 查找，并以 "图标名: url" 的格式添加在下方
     'fab fa-github': https://github.com/memelee
     'fab fa-weixin qrcode': # 添加 qrcode 后，点击不再跳转，而是悬浮二维码，因此值需要是二维码图片地址
